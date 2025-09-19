@@ -54,10 +54,7 @@ matplotlib, seaborn
 🔹 License
 This project is licensed under the MIT License.
 
-🔹 Contact
-GitHub: your-username
 
-Email: your-email@example.com
 
 pgsql
 Copy code
