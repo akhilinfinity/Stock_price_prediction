@@ -20,25 +20,21 @@ This project predicts stock prices using machine learning. It analyzes historica
 
 ## 🔹 Installation
 1. Clone the repository:  
-```bash
+
 git clone https://github.com/akhilinfinity/stock-price-prediction.git
 Navigate to the folder:
 
-bash
-Copy code
 cd stock-price-prediction
 Install dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 🔹 Usage
 Prepare your CSV dataset with columns: Date, Open, Close, High, Low, Volume.
 
 Run the app:
 
-bash
-Copy code
+
 python app.py
 Enter a date to get the predicted stock price.
 
@@ -56,8 +52,7 @@ This project is licensed under the MIT License.
 
 
 
-pgsql
-Copy code
+
 
 🔹 Contact
 GitHub: akhilinfinity
